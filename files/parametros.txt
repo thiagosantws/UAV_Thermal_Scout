@@ -1,0 +1,5 @@
+gsd_imagem=0.04
+intervalo_chave=[5, 15, 35, 55]
+intervalo_trafo=[3, 5, 7, 9]
+filtro_deteccao=3e-05
+confianca=0.5
